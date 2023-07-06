@@ -1,0 +1,89 @@
+.biodiversity-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.biodiversity-biodiversity {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.biodiversity-frame1 {
+  top: 15px;
+  left: 182px;
+  width: 5px;
+  height: 4px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.biodiversity-img65472 {
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  height: 350px;
+  position: absolute;
+}
+.biodiversity-image12967961 {
+  top: 214.404296875px;
+  left: 40px;
+  width: 120px;
+  height: 69px;
+  position: absolute;
+}
+.biodiversity-map2 {
+  top: 0px;
+  left: 168px;
+  width: 28px;
+  height: 30px;
+  position: absolute;
+}
+.biodiversity-text {
+  top: 42px;
+  left: 8px;
+  color: rgba(0, 0, 0, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.biodiversity-text2 {
+  top: 254px;
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.biodiversity-image11475302002 {
+  top: 0px;
+  left: 145px;
+  width: 23px;
+  height: 31px;
+  position: absolute;
+}

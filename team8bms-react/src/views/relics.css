@@ -1,0 +1,182 @@
+.relics-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.relics-relics {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.relics-rectangle1 {
+  top: 35px;
+  left: 14px;
+  width: 178px;
+  height: 290px;
+  position: absolute;
+  border-radius: 29px;
+}
+.relics-rectangle9 {
+  top: 196px;
+  left: 42px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle10 {
+  top: 196px;
+  left: 90px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle11 {
+  top: 196px;
+  left: 137px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle12 {
+  top: 240px;
+  left: 42px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle13 {
+  top: 240px;
+  left: 88px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle14 {
+  top: 240px;
+  left: 137px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle2 {
+  top: 67px;
+  left: 90px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle3 {
+  top: 108px;
+  left: 43px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle16 {
+  top: 67px;
+  left: 43px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle4 {
+  top: 108px;
+  left: 90px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle5 {
+  top: 108px;
+  left: 137px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle15 {
+  top: 67px;
+  left: 137px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle6 {
+  top: 152px;
+  left: 42px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle7 {
+  top: 152px;
+  left: 90px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-rectangle8 {
+  top: 152px;
+  left: 137px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.relics-image12967962 {
+  top: 90.87234497070312px;
+  left: 90px;
+  width: 30px;
+  height: 18px;
+  position: absolute;
+}
+.relics-insectbugclipart2image22 {
+  top: 71px;
+  left: 139px;
+  width: 25px;
+  height: 20px;
+  position: absolute;
+}
+.relics-dino1 {
+  top: 69px;
+  left: 45px;
+  width: 27px;
+  height: 21px;
+  position: absolute;
+}
+.relics-text {
+  top: 6px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.relics-artifactorangecartooncontainervaseremovebgpreview2 {
+  top: 108px;
+  left: 46px;
+  width: 25px;
+  height: 30px;
+  position: absolute;
+}
+.relics-flat750x075fpad750x1000f8f8f82 {
+  top: 108px;
+  left: 93px;
+  width: 23px;
+  height: 30px;
+  position: absolute;
+}
