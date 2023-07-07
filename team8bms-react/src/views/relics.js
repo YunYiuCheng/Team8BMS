@@ -1,15 +1,10 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
-
 import './relics.css'
 
 const Relics = (props) => {
   return (
     <div className="relics-container">
-      <Helmet>
-        <title>exported project</title>
-      </Helmet>
       <div className="relics-container1">
         <img
           alt="Rectangle11242"

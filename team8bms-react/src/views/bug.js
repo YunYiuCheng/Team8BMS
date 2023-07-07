@@ -1,15 +1,11 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
 
 import './bug.css'
 
 const Bug = (props) => {
   return (
     <div className="bug-container">
-      <Helmet>
-        <title>exported project</title>
-      </Helmet>
       <img
         alt="IMG654721234"
         src="/external/img654721234-icd-1100h.png"

@@ -1,15 +1,10 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
-
 import './fourthfloor.css'
 
 const Fourthfloor = (props) => {
   return (
     <div className="fourthfloor-container">
-      <Helmet>
-        <title>exported project</title>
-      </Helmet>
       <img
         src="/return-button-png-31-200h.png"
         alt="image"

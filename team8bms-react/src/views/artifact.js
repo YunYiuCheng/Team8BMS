@@ -1,15 +1,11 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
 
 import './artifact.css'
 
 const Artifact = (props) => {
   return (
     <div className="artifact-container">
-      <Helmet>
-        <title>exported project</title>
-      </Helmet>
       <img
         alt="IMG654721271"
         src="/external/img654721271-fli6-1100h.png"

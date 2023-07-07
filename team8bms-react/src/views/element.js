@@ -1,15 +1,11 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
 
 import './element.css'
 
 const Element = (props) => {
   return (
     <div className="element-container">
-      <Helmet>
-        <title>exported project</title>
-      </Helmet>
       <img
         alt="IMG654721239"
         src="/external/img654721239-myri-1100h.png"

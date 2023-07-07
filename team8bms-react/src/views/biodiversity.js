@@ -1,15 +1,10 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
-
 import './biodiversity.css'
 
 const Biodiversity = (props) => {
   return (
     <div className="biodiversity-container">
-      <Helmet>
-        <title>exported project</title>
-      </Helmet>
       <img
         alt="IMG654721234"
         src="/external/img654721234-icd-1100h.png"
