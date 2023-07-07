@@ -8,12 +8,12 @@ const Biodiversity = (props) => {
   return (
     <div className="biodiversity-container">
       <Helmet>
-        <title>exported project</title>
+        <title>exported project</title> 
       </Helmet>
       <img
         alt="IMG654721234"
         src="/external/img654721234-icd-1100h.png"
-        className="biodiversity-img65472"
+        className="biodiversity-img65472" 
       />
       <img
         alt="IMAGE129679611272"
