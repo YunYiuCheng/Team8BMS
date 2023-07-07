@@ -21,7 +21,7 @@ const Biodiversity = (props) => {
         className="biodiversity-map2"
       />
       <span className="biodiversity-text">
-        Wow! You just made an astronomical discovery
+        Wow!  You just made an astronomical discovery
       </span>
       <span className="biodiversity-text1">
         <span>A Planet!</span>
